@@ -1,0 +1,40 @@
+.grid{
+    width: 458px;
+    height: 458px;
+    display: flex;
+    flex-wrap:wrap;
+    margin-top: 50px;  
+    box-shadow: 10px 10px 10px 10px;
+}
+.square{
+    width: 150px;
+    height: 150px;
+    border: solid rgb(57, 41, 12) 1px;
+    display: flex;
+    justify-content: center;
+}
+.mole{
+    background-image:url("moleee.png");
+    background-size: cover;
+}
+html{
+    background-color: rgb(103, 94, 73);
+}
+h1{
+    margin-left:  550px;
+    margin-top: 50px;
+    
+}
+.wac{
+    display: flex;
+    justify-content:space-around;
+}
+.wac1{
+    margin-top: 220px;
+}
+#display{
+    font-size: 15px;
+}
+
+
+
